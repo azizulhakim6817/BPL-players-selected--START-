@@ -6,7 +6,7 @@ import SelectedPlayers from "./component/SelectedPlayers/SelectedPlayers";
 import { toast } from "react-toastify";
 
 const fetchPlayers = async () => {
-  const res = await fetch("/public/players.json");
+  const res = await fetch("/players.json");
   return res.json();
 };
 const fetchData = fetchPlayers();
