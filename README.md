@@ -1,5 +1,9 @@
 # React + Vite
 
+## Deployment proccess : netlify.app
+
+https://bpl-bangladesh-premier-league1.netlify.app/
+
 ## Deployment proccess : surge.sh
 
 1. npm install --global surge
