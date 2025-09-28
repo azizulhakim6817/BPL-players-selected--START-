@@ -7,7 +7,7 @@ const SelectedPlayers = ({
   setToggle,
 }) => {
   return (
-    <div className="mt-4">
+    <div className="mt-4 mx-4">
       {purchasedPlayer.map((player, i) => (
         <SelectedCard key={i} player={player} handleRemove={handleRemove} />
       ))}
