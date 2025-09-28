@@ -8,7 +8,7 @@ https://bpl-bangladesh-premier-league1.netlify.app/
 
 1. npm install --global surge
 2. surge dist
-3. statuesque-wax.surge.sh
+3. https://present-apparel.surge.sh/
 
 ## Setup surge.sh ------------
 

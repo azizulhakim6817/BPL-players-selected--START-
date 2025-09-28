@@ -29,7 +29,7 @@ const App = () => {
 
     setPurchasedPlayer(filderData);
     setAvailableBalance(availableBalance + playerName.price);
-    toast.success("Players has been removed succefully");
+    toast.success("Players has been removed succefully.");
   };
 
   return (
